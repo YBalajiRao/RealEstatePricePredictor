@@ -1,6 +1,6 @@
 # Real Estate Price Predictor
+![GIF Logo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxrbHZlbXlxZmVjdGttZ29lcWpjamVkYjdhOXozYTFtMjA4NnFmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbfV1naktgX34jDNy7/giphy.gif)
 
-![Real Estate Price Predictor](https://github.com/YBalajiRao/RealEstatePricePredictor/blob/main/images/real_estate_price_predictor.png)
 
 Welcome to Real Estate Price Predictor! This project aims to provide insights into real estate pricing and predict property prices based on various features. Whether you're a homebuyer, real estate agent, or investor, this tool can help you make informed decisions about buying or selling properties.
 
